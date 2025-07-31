@@ -86,6 +86,7 @@ user_is_guest {
 }
 
 
+
 # user_is_granted is a set of permissions for the user identified in the request.
 # The `permission` will be contained if the set `user_is_granted` for every...
 user_is_granted[permission] {
