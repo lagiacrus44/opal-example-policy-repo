@@ -27,6 +27,13 @@
         "country": "US",
         "ip": "8.8.8.8"
       }
+    },
+    "3m": {
+      "roles": ["customer"],
+      "location": {
+        "country": "EU",
+        "ip": "2.2.2.2"
+      }
     }
   },
   "role_permissions": {
