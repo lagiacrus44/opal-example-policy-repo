@@ -41,13 +41,6 @@
         "country": "US",
         "ip": "2.2.2.2"
       }
-    },
-    "5m": {
-      "roles": ["employee"],
-      "location": {
-        "country": "US",
-        "ip": "2.2.2.3"
-      }
     }
   },
   "role_permissions": {
