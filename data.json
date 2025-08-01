@@ -39,13 +39,13 @@
       "roles": ["customer"],
       "location": {
         "country": "US",
-        "ip": "2.2.2.2"
+        "ip": "4.4.4.4"
       }
     },
     "6m": {
       "roles": ["employee"],
       "location": {
-        "country": "US",
+        "country": "EU",
         "ip": "2.2.2."
       }
     }
